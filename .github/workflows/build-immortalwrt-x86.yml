@@ -1,4 +1,4 @@
-name: Build OpenWrt
+name: Build ImmortalWrt for x86
 
 on:
   repository_dispatch:
